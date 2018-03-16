@@ -1,7 +1,7 @@
-### Pivx wallet protocol
+### Solaris wallet protocol
 
 
-Pivx server is based on electrum server. Tiene el mismo flujo.
+Solaris server is based on electrum server. Tiene el mismo flujo.
 
 Cada request tiene su propia respuesta del lado del servidor, incluyendo los request de suscripciones.
 
