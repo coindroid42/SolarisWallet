@@ -6,4 +6,4 @@ Welcome to the Solaris mobile wallet for android!
 
 You can build all sub-projects at once using Gradle:
 
-gradle clean build
+        gradle clean build
