@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="pivx.org.pivxwallet">
+    package="solaris.org.solariswallet">
 
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -12,7 +12,7 @@
 
 
     <application
-        android:name=".PivxApplication"
+        android:name=".SolarisApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -144,11 +144,11 @@
             android:taskAffinity=""
             android:theme="@android:style/Theme.Dialog" />
 
-        <service android:name=".service.PivxWalletService" />
+        <service android:name=".service.SolarisWalletService" />
 
         <provider
             android:name="android.support.v4.content.FileProvider"
-            android:authorities="pivx.org.pivxwallet.myfileprovider"
+            android:authorities="solaris.org.solariswallet.myfileprovider"
             android:exported="false"
             android:grantUriPermissions="true">
             <meta-data
