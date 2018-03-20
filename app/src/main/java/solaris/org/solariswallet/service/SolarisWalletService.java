@@ -262,7 +262,7 @@ public class SolarisWalletService extends Service{
                     resultIntent.setAction(ACTION_CANCEL_COINS_RECEIVED);
                     deleteIntent = PendingIntent.getService(SolarisWalletService.this, 0, resultIntent, PendingIntent.FLAG_CANCEL_CURRENT);
                     mBuilder = new NotificationCompat.Builder(getApplicationContext())
-                            .setContentTitle("Xlrs received!")
+                            .setContentTitle("XLR received!")
                             .setContentText("Coins received for a value of " + notificationAccumulatedAmount.toFriendlyString())
                             .setAutoCancel(true)
                             .setSmallIcon(R.mipmap.ic_launcher)

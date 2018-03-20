@@ -46,7 +46,7 @@ import solaris.org.solariswallet.utils.DialogsUtil;
 import solaris.org.solariswallet.utils.scanner.ScanActivity;
 
 import static android.Manifest.permission.CAMERA;
-import static global.utils.Io.log;
+
 import static solaris.org.solariswallet.service.IntentsConstants.ACTION_NOTIFICATION;
 import static solaris.org.solariswallet.service.IntentsConstants.INTENT_BROADCAST_DATA_ON_COIN_RECEIVED;
 import static solaris.org.solariswallet.service.IntentsConstants.INTENT_BROADCAST_DATA_TYPE;
@@ -347,9 +347,9 @@ public class WalletActivity extends BaseDrawerActivity {
 
     private void updateBalance() {
         Coin availableBalance = solarisModule.getAvailableBalanceCoin();
-        txt_value.setText(!availableBalance.isZero() ? availableBalance.toFriendlyString() : "0 Xlrs");
+        txt_value.setText(!availableBalance.isZero() ? availableBalance.toFriendlyString() : "0 XLR");
         Coin unnavailableBalance = solarisModule.getUnnavailableBalanceCoin();
-        txt_unnavailable.setText(!unnavailableBalance.isZero() ? unnavailableBalance.toFriendlyString() : "0 Xlrs");
+        txt_unnavailable.setText(!unnavailableBalance.isZero() ? unnavailableBalance.toFriendlyString() : "0 XLR");
         if (solarisRate == null)
             solarisRate = solarisModule.getRate(solarisApplication.getAppConf().getSelectedRateCoin());
 
@@ -366,6 +366,7 @@ public class WalletActivity extends BaseDrawerActivity {
                     )
                             + " " + solarisRate.getCode()
             );
+
 
         } else {
             txt_local_currency.setText("0");

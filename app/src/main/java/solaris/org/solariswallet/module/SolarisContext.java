@@ -38,7 +38,7 @@ public class SolarisContext {
     public static final String REPORT_SUBJECT_ISSUE = "Reported issue";
 
     /** Donation address */
-    public static final String DONATE_ADDRESS = "37HuPVbbrXP1UghoTHsPDeht1ovWN5C3Ji";
+    public static final String DONATE_ADDRESS = "SbUn75nwFqsdqRVt3yRt6EBXw8DZPLgFqs";
 
     public static final class Files{
 
