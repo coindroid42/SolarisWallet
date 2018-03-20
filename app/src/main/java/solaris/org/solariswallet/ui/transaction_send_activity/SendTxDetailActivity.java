@@ -10,7 +10,7 @@ import solaris.org.solariswallet.ui.base.BaseActivity;
 import solaris.org.solariswallet.ui.pincode_activity.PincodeActivity;
 
 /**
- * Created by ming on 2018.3.19.
+ * Created by mingxiao on 2018.3.19.
  * //
  */
 

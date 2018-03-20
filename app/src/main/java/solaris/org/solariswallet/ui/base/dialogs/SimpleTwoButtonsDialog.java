@@ -12,7 +12,7 @@ import solaris.org.solariswallet.R;
 import static android.view.View.GONE;
 
 /**
- * Created by ming on 26/01/17.
+ * Created by mingxiao on 26/01/17.
  */
 
 public class SimpleTwoButtonsDialog extends Dialog implements View.OnClickListener {

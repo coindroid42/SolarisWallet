@@ -9,7 +9,7 @@ import solaris.org.solariswallet.R;
 import solaris.org.solariswallet.ui.base.tools.adapter.BaseRecyclerViewHolder;
 
 /**
- * Created by ming on 8/4/17.
+ * Created by mingxiao on 8/4/17.
  */
 
 public class OutputHolder extends BaseRecyclerViewHolder{

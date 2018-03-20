@@ -22,7 +22,7 @@ import solaris.org.solariswallet.utils.DialogsUtil;
 import static solaris.org.solariswallet.utils.CrashReporter.appendSavedBackgroundTraces;
 
 /**
- * Created by ming on 2018.3.19.
+ * Created by mingxiao on 2018.3.19.
  */
 
 public class SettingsWatchOnly extends BaseActivity {

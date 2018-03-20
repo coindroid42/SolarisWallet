@@ -21,7 +21,7 @@ import static solaris.org.solariswallet.service.IntentsConstants.ACTION_STORED_B
 import static solaris.org.solariswallet.service.IntentsConstants.ACTION_TRUSTED_PEER_CONNECTION_FAIL;
 
 /**
- * Created by ming on 2018.3.19.
+ * Created by mingxiao on 2018.3.19.
  */
 
 public class SolarisActivity extends AppCompatActivity {

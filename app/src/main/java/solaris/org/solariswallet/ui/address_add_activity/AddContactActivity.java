@@ -26,7 +26,7 @@ import static android.Manifest.permission_group.CAMERA;
 import static solaris.org.solariswallet.utils.scanner.ScanActivity.INTENT_EXTRA_RESULT;
 
 /**
- * Created by ming on 2018.3.19.
+ * Created by mingxiao on 2018.3.19.
  */
 
 public class AddContactActivity extends BaseActivity implements View.OnClickListener {

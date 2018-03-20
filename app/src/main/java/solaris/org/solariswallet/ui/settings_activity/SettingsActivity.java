@@ -47,7 +47,7 @@ import static solaris.org.solariswallet.service.IntentsConstants.INTENT_EXTRA_BL
 import static solaris.org.solariswallet.ui.tutorial_activity.TutorialActivity.INTENT_EXTRA_INFO_TUTORIAL;
 
 /**
- * Created by ming on 2018.3.19.
+ * Created by mingxiao on 2018.3.19.
  */
 
 public class SettingsActivity extends BaseDrawerActivity implements View.OnClickListener {

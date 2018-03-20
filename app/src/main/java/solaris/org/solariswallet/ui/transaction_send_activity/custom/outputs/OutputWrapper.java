@@ -5,7 +5,7 @@ import org.solarisj.core.Coin;
 import java.io.Serializable;
 
 /**
- * Created by ming on 8/4/17.
+ * Created by mingxiao on 8/4/17.
  */
 
 public class OutputWrapper implements Serializable{

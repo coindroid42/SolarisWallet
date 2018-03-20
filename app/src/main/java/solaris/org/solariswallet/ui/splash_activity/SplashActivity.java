@@ -16,7 +16,7 @@ import solaris.org.solariswallet.ui.start_activity.StartActivity;
 import solaris.org.solariswallet.ui.wallet_activity.WalletActivity;
 
 /**
- * Created by ming on 2018.3.19.
+ * Created by mingxiao on 2018.3.19.
  */
 
 public class SplashActivity extends AppCompatActivity {

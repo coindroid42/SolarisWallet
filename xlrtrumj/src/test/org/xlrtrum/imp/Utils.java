@@ -9,7 +9,7 @@ import org.spongycastle.util.encoders.Hex;
 import static org.solarisj.core.ECKey.CURVE;
 
 /**
- * Created by ming on 2018.3.19.
+ * Created by mingxiao on 2018.3.19.
  */
 
 public class Utils {

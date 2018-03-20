@@ -26,7 +26,7 @@ import solaris.org.solariswallet.ui.base.tools.adapter.BaseRecyclerViewHolder;
 import wallet.exceptions.TxNotFoundException;
 
 /**
- * Created by ming on 8/4/17.
+ * Created by mingxiao on 8/4/17.
  */
 
 public class InputsFragment extends BaseRecyclerFragment<InputsFragment.InputSelectionWrapper> {

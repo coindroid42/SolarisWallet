@@ -24,7 +24,7 @@ import static solaris.org.solariswallet.service.IntentsConstants.ACTION_BROADCAS
 import static solaris.org.solariswallet.service.IntentsConstants.DATA_TRANSACTION_HASH;
 
 /**
- * Created by ming on 7/24/17.
+ * Created by mingxiao on 7/24/17.
  */
 
 public class DonateActivity extends BaseDrawerActivity {

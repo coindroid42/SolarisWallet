@@ -14,7 +14,7 @@ import solaris.org.solariswallet.R;
 import solaris.org.solariswallet.module.SolarisContext;
 
 /**
- * Created by ming on 2018.3.19.
+ * Created by mingxiao on 2018.3.19.
  */
 
 public class IntentsUtils {

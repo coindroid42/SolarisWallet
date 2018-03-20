@@ -10,7 +10,7 @@ import java.util.Map;
 import solaris.org.solariswallet.contacts.AddressLabel;
 
 /**
- * Created by ming on 2018.3.19.
+ * Created by mingxiao on 2018.3.19.
  */
 public class TransactionWrapper implements Serializable{
 

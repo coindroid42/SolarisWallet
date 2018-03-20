@@ -56,7 +56,7 @@ import static solaris.org.solariswallet.ui.transaction_send_activity.SendActivit
 import static solaris.org.solariswallet.utils.scanner.ScanActivity.INTENT_EXTRA_RESULT;
 
 /**
- * Created by ming on 2018.3.19.
+ * Created by mingxiao on 2018.3.19.
  */
 
 public class WalletActivity extends BaseDrawerActivity {

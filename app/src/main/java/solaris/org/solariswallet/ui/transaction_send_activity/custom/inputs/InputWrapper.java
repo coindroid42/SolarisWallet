@@ -9,7 +9,7 @@ import solaris.org.solariswallet.contacts.AddressLabel;
 import solaris.org.solariswallet.module.SolarisContext;
 
 /**
- * Created by ming on 8/4/17.
+ * Created by mingxiao on 8/4/17.
  */
 
 public class InputWrapper implements Serializable{

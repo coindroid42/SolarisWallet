@@ -30,7 +30,7 @@ import solaris.org.solariswallet.utils.DialogsUtil;
 import static global.XlrtrumGlobalData.FURSZY_TESTNET_SERVER;
 
 /**
- * Created by ming on 2018.3.19.
+ * Created by mingxiao on 2018.3.19.
  */
 
 public class StartNodeActivity extends BaseActivity {

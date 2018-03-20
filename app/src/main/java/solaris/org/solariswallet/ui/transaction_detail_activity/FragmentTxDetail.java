@@ -37,7 +37,7 @@ import static solaris.org.solariswallet.ui.transaction_send_activity.custom.inpu
 import static solaris.org.solariswallet.ui.transaction_send_activity.custom.inputs.InputsFragment.INTENT_EXTRA_UNSPENT_WRAPPERS;
 
 /**
- * Created by ming on 2018.3.19.
+ * Created by mingxiao on 2018.3.19.
  */
 
 public class FragmentTxDetail extends BaseFragment implements View.OnClickListener {

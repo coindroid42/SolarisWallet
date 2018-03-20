@@ -3,7 +3,7 @@ package solaris.org.solariswallet.utils;
 import android.content.SharedPreferences;
 
 /**
- * Created by ming on 2018.3.19.
+ * Created by mingxiao on 2018.3.19.
  */
 
 public class Configurations {

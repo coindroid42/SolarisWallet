@@ -11,7 +11,7 @@ import solaris.org.solariswallet.ui.wallet_activity.WalletActivity;
 import solaris.org.solariswallet.utils.AppConf;
 
 /**
- * Created by ming on 8/19/17.
+ * Created by mingxiao on 8/19/17.
  */
 
 public class InitialActivity extends AppCompatActivity {

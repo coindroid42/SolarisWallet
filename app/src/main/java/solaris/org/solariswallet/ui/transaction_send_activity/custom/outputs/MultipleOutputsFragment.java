@@ -30,7 +30,7 @@ import static android.app.Activity.RESULT_OK;
 import static solaris.org.solariswallet.utils.scanner.ScanActivity.INTENT_EXTRA_RESULT;
 
 /**
- * Created by ming on 8/4/17.
+ * Created by mingxiao on 8/4/17.
  * todo: agregar el change listener y pintar de rojo cuando un valor está mal..
  */
 

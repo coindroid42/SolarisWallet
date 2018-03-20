@@ -22,7 +22,7 @@ import solaris.org.solariswallet.ui.start_activity.StartActivity;
 import static solaris.org.solariswallet.ui.backup_mnemonic_activity.MnemonicActivity.INTENT_EXTRA_INIT_VIEW;
 
 /**
- * Created by ming on 2018.3.19.
+ * Created by mingxiao on 2018.3.19.
  */
 
 public class PincodeActivity extends BaseActivity implements KeyboardFragment.onKeyListener {

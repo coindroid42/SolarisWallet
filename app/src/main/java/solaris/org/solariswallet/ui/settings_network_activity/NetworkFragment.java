@@ -15,7 +15,7 @@ import solaris.org.solariswallet.ui.base.BaseRecyclerFragment;
 import solaris.org.solariswallet.ui.base.tools.adapter.BaseRecyclerAdapter;
 
 /**
- * Created by ming on 2018.3.19.
+ * Created by mingxiao on 2018.3.19.
  */
 
 public class NetworkFragment extends BaseRecyclerFragment<Peer> {

@@ -14,7 +14,7 @@ import solaris.org.solariswallet.ui.tutorial_activity.TutorialActivity;
 import static solaris.org.solariswallet.ui.restore_activity.RestoreActivity.ACTION_RESTORE_AND_JUMP_TO_WIZARD;
 
 /**
- * Created by ming on 2018.3.19.
+ * Created by mingxiao on 2018.3.19.
  */
 
 public class StartActivity extends BaseActivity {

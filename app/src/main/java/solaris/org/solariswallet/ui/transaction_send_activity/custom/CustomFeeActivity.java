@@ -18,7 +18,7 @@ import static solaris.org.solariswallet.ui.transaction_send_activity.custom.Cust
 import static solaris.org.solariswallet.ui.transaction_send_activity.custom.CustomFeeFragment.INTENT_EXTRA_IS_TOTAL_FEE;
 
 /**
- * Created by ming on 2018.3.19.
+ * Created by mingxiao on 2018.3.19.
  */
 
 public class CustomFeeActivity extends BaseActivity {

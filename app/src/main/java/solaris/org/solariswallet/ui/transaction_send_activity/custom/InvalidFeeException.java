@@ -1,7 +1,7 @@
 package solaris.org.solariswallet.ui.transaction_send_activity.custom;
 
 /**
- * Created by ming on 2018.3.19.
+ * Created by mingxiao on 2018.3.19.
  */
 
 class InvalidFeeException extends Exception {

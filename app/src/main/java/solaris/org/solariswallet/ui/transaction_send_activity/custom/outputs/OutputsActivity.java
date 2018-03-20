@@ -21,7 +21,7 @@ import solaris.org.solariswallet.ui.base.BaseActivity;
 import solaris.org.solariswallet.utils.DialogsUtil;
 
 /**
- * Created by ming on 8/4/17.
+ * Created by mingxiao on 8/4/17.
  */
 
 public class OutputsActivity extends BaseActivity {

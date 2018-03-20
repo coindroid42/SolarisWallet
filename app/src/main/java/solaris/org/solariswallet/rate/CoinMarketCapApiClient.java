@@ -23,7 +23,7 @@ import java.util.concurrent.TimeUnit;
 import solaris.org.solariswallet.rate.db.SolarisRate;
 
 /**
- * Created by ming on 2018.3.19.
+ * Created by mingxiao on 2018.3.19.
  */
 
 public class CoinMarketCapApiClient {

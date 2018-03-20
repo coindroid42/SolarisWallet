@@ -23,7 +23,7 @@ import solaris.org.solariswallet.ui.settings_activity.SettingsActivity;
 import solaris.org.solariswallet.ui.settings_network_activity.NetworkViewHolder;
 
 /**
- * Created by ming on 2018.3.19.
+ * Created by mingxiao on 2018.3.19.
  */
 
 public class RatesFragment extends BaseRecyclerFragment<SolarisRate> implements ListItemListeners<SolarisRate> {

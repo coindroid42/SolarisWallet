@@ -8,7 +8,7 @@ import solaris.org.solariswallet.contacts.AddressLabel;
 import solaris.org.solariswallet.ui.base.tools.adapter.BaseRecyclerAdapter;
 
 /**
- * Created by ming on 2018.3.19.
+ * Created by mingxiao on 2018.3.19.
  */
 
 public class ContactsAdapter extends BaseRecyclerAdapter<AddressLabel,ContactViewHolderBase> {

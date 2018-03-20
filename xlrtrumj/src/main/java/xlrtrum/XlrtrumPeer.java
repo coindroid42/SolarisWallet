@@ -54,7 +54,7 @@ import xlrtrum.messages.responses.Unspent;
 import xlrtrum.utility.TxHashHeightWrapper;
 
 /**
- * Created by ming on 2018.3.19.
+ * Created by mingxiao on 2018.3.19.
  *
  * Class in charge of connect to a single peer on the network
  *

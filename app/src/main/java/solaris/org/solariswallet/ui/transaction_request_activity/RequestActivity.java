@@ -49,7 +49,7 @@ import static solaris.org.solariswallet.utils.QrUtils.encodeAsBitmap;
 import static solaris.org.solariswallet.utils.scanner.ScanActivity.INTENT_EXTRA_RESULT;
 
 /**
- * Created by ming on 2018.3.19.
+ * Created by mingxiao on 2018.3.19.
  */
 
 public class RequestActivity extends BaseActivity implements View.OnClickListener {

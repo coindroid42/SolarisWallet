@@ -25,7 +25,7 @@ import solaris.org.solariswallet.ui.start_node_activity.StartNodeActivity;
 import solaris.org.solariswallet.ui.wallet_activity.WalletActivity;
 
 /**
- * Created by ming on 2018.3.19.
+ * Created by mingxiao on 2018.3.19.
  */
 
 public class TutorialActivity extends AppCompatActivity implements View.OnClickListener {

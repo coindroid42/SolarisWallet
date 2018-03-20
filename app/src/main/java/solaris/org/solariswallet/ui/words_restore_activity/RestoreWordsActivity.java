@@ -44,7 +44,7 @@ import solaris.org.solariswallet.utils.DialogsUtil;
 import static solaris.org.solariswallet.module.SolarisContext.SOLARIS_WALLET_APP_RELEASED_ON_PLAY_STORE_TIME;
 
 /**
- * Created by ming on 2018.3.19.
+ * Created by mingxiao on 2018.3.19.
  * // todo: this activity is awfull, should do this right..
  */
 

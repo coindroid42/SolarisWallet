@@ -34,7 +34,7 @@ import solaris.org.solariswallet.utils.CrashReporter;
 import static solaris.org.solariswallet.utils.AndroidUtils.shareText;
 
 /**
- * Created by ming on 2018.3.19.
+ * Created by mingxiao on 2018.3.19.
  */
 
 public class CrashPopupActivity extends AppCompatActivity implements View.OnClickListener {

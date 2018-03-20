@@ -13,7 +13,7 @@ import solaris.org.solariswallet.ui.wallet_activity.WalletActivity;
 import solaris.org.solariswallet.utils.NavigationUtils;
 
 /**
- * Created by ming on 6/9/17.
+ * Created by mingxiao on 6/9/17.
  */
 
 public class TransactionDetailActivity extends BaseActivity {

@@ -15,7 +15,7 @@ import solaris.org.solariswallet.R;
 
 
 /**
- * Created by ming on 26/01/17.
+ * Created by mingxiao on 26/01/17.
  */
 
 public class SimpleTextDialog extends DialogFragment {

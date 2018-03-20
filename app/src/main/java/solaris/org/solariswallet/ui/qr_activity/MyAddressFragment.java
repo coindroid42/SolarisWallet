@@ -31,7 +31,7 @@ import static solaris.org.solariswallet.utils.AndroidUtils.copyToClipboard;
 import static solaris.org.solariswallet.utils.QrUtils.encodeAsBitmap;
 
 /**
- * Created by ming on 2018.3.19.
+ * Created by mingxiao on 2018.3.19.
  */
 
 public class MyAddressFragment extends Fragment implements View.OnClickListener {

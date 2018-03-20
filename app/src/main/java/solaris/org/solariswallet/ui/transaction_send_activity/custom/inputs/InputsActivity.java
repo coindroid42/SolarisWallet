@@ -14,7 +14,7 @@ import solaris.org.solariswallet.ui.base.BaseActivity;
 import static solaris.org.solariswallet.ui.transaction_send_activity.SendActivity.INTENT_EXTRA_TOTAL_AMOUNT;
 
 /**
- * Created by ming on 8/4/17.
+ * Created by mingxiao on 8/4/17.
  */
 
 public class InputsActivity extends BaseActivity {

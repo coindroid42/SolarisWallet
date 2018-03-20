@@ -18,7 +18,7 @@ import static solaris.org.solariswallet.module.SolarisContext.PEER_DISCOVERY_TIM
 import static solaris.org.solariswallet.module.SolarisContext.PEER_TIMEOUT_MS;
 
 /**
- * Created by ming on 2018.3.19.
+ * Created by mingxiao on 2018.3.19.
  */
 
 public class WalletConfImp extends Configurations implements WalletConfiguration {

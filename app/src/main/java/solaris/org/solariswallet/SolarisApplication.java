@@ -51,7 +51,7 @@ import static solaris.org.solariswallet.service.IntentsConstants.ACTION_RESET_BL
 import static solaris.org.solariswallet.utils.AndroidUtils.shareText;
 
 /**
- * Created by ming on 2018.3.19.
+ * Created by mingxiao on 2018.3.19.
  */
 @ReportsCrashes(
         mailTo = SolarisContext.REPORT_EMAIL, // my email here
