@@ -49,6 +49,7 @@ public class SplashActivity extends AppCompatActivity {
         if (videoView != null) {
             videoView.setVideoURI(video);
             videoView.setZOrderOnTop(true);
+
             videoView.setOnCompletionListener(new MediaPlayer.OnCompletionListener() {
                 public void onCompletion(MediaPlayer mp) {
                     jump();

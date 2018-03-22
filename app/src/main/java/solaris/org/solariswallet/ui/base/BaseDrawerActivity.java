@@ -206,8 +206,8 @@ public class BaseDrawerActivity extends SolarisActivity implements NavigationVie
             startActivity(new Intent(this, ContactsActivity.class));
         } else if (id == R.id.nav_settings) {
             startActivity(new Intent(this, SettingsActivity.class));
-        } else if (id == R.id.nav_donations){
-            startActivity(new Intent(this, DonateActivity.class));
+       // } else if (id == R.id.nav_donations){
+       //     startActivity(new Intent(this, DonateActivity.class));
         }
 
         drawer.closeDrawer(GravityCompat.START);
