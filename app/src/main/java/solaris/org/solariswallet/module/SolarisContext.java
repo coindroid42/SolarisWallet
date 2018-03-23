@@ -33,7 +33,7 @@ public class SolarisContext {
     public static final String URL_FIAT_CURRENCIES_RATE = "https://bitpay.com/rates";
 
     // report mail
-    public static final String REPORT_EMAIL = "likemingming777@gmail.com";
+    public static final String REPORT_EMAIL = "solarisapptickets@gmail.com";
     /** Subject line for manually reported issues. */
     public static final String REPORT_SUBJECT_ISSUE = "Reported issue";
 
