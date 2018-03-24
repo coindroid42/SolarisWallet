@@ -106,7 +106,7 @@
     <string name="settings_change_trusted_node">Change trusted node</string>
     <string name="settings_reset_blockchain">Reset blockchain</string>
     <string name="save">Save</string>
-    <string name="tutorial_message"> Private, Instant, Verified, Transaction\nis a privacy-focused, decentralized, open source cryptocurrency run by a global community comprised of creators, innovators, and technology enthusiasts.</string>
+    <string name="tutorial_message"> Security. Privacy. Liberty.\nSolaris is a decentralized open source cryptocurrency focused on privacy, innovation and the advancement of technology.</string>
     <!-- Tutorial -->
     <string name="next_words">Next 8 words</string>
     <string name="next">Next</string>
