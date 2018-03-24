@@ -11,6 +11,8 @@ The Solaris App uses the BIP-39 wordlist which can be observed [here](https://gi
 
 **Localized Blockchain**
 In order to prevent reliance on outside servers, the android app downloads a very lightweight version of the blockchain to the app which can be referenced with ease.
+
+
 **Building**
 You can build all sub-projects at once using Gradle:
 
