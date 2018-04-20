@@ -1,9 +1,9 @@
-### Solaris wallet protocol
+### Solaris Wallet Protocol
 
 
-Solaris server is based on electrum server. Tiene el mismo flujo.
+The Solaris Server is derived from the bitcoin electrum server.
 
-Cada request tiene su propia respuesta del lado del servidor, incluyendo los request de suscripciones.
+Each request has its own server-side response, including subscription requests.
 
 Initialization flow:
 
@@ -22,7 +22,7 @@ Initialization flow:
     |   <-----------------------------------    |
     |                                           |
 
-Primero se envia la version para comprobar que el servidor está corriendo una version aceptada por el cliente.
+First the version is sent to verify that the server is running a version accepted by the client.
 
 
 server.version
@@ -49,13 +49,13 @@ Identifies the client to the server.
   server.version("2.7.11", "1.0")
 
 
-Paso dos es enviar la suscripción a addresses conocidas, se envian las addresses conocidas por el cliente que fueron entregadas al usuario.
-El servidor envia notificaciones cuando dicha address cambia de estado.
+Step two is to send the subscription to known addresses, the addresses known by the client that were delivered to the user are sent.
+The server sends notifications when said address changes state.
 
 blockchain.address.subscribe
 ============================
 
-Subscribe to a bitcoin address.
+Subscribe to a Solaris address.
 
   blockchain.address.subscribe(**address**)
 
