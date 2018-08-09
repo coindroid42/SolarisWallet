@@ -8,8 +8,8 @@ android {
         applicationId "solaris.tech.ming"
         minSdkVersion 21
         targetSdkVersion 25
-        versionCode 16
-        versionName "1.0.2"
+        versionCode 17
+        versionName "1.0.3"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         multiDexEnabled true
 
