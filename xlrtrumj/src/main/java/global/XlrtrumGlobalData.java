@@ -12,7 +12,7 @@ import xlrtrum.XlrtrumPeerData;
 public class XlrtrumGlobalData {
 
     public static final String FURSZY_TESTNET_SERVER = "185.101.98.175";
-    public static final String[] TRUSTED_NODES = new String[]{"solarisnode.dyndns.org"};
+    public static final String[] TRUSTED_NODES = new String[]{"solarisnode.dyndns.org", "solarisnode1.dyndns.org", "solarisnode2.dyndns.org", "solarisnode3.dyndns.org", "solarisnode4.dyndns.org"};
    // public static final String[] TRUSTED_NODES = new String[]{"216.155.135.162"};
 
     public static final List<XlrtrumPeerData> listTrustedHosts(){
